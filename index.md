@@ -1,5 +1,3 @@
-# Welcome to My Portfolio!
-
 Hello! I'm Maftunakhon Solieva, a passionate soffware developer with experience in creating dynamic and responsive web applications and digital solutions. Below, you'll find some of my work and skills. Feel free to explore and connect!
 
 ---
